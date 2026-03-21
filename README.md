@@ -1,4 +1,4 @@
-# Blog del Medio AMmbiente
+# Blog del Medio Ambiente
 
 ## Informacion del Proyecto
 
