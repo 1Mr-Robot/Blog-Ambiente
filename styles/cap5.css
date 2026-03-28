@@ -26,8 +26,40 @@
 
 #img3 {
     width: 30dvw;
+    max-width: 100%;
+    height: auto;
 }
 
 .inditext{
     padding-right: 50px;
+}
+
+@media (max-width: 991px) {
+    #objetivos {
+        grid-template-columns: 1fr;
+    }
+    
+    #img2 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    
+    .indicadores {
+        flex-direction: column;
+    }
+    
+    .inditext {
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+    
+    #img3 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 575px) {
+    #imagcap5 {
+        width: 100%;
+    }
 }

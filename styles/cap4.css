@@ -14,3 +14,27 @@
     margin-top: 10px;
     margin-left: 15px;
 }
+
+@media (min-width: 576px) and (max-width: 767px) {
+    #agenda {
+        grid-template-columns: 1fr 35%;
+    }
+
+    #img2 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 575px) {
+    #img2 {
+        width: 100%;
+    }
+    
+    #agenda {
+        grid-template-columns: 1fr;
+    }
+    
+    #img2 {
+        margin-left: 0;
+    }
+}

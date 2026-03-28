@@ -5,6 +5,7 @@ nav, .card {
 
 body {
     background-color: #ededed;
+    overflow-x: hidden;
 }
 
 #main-container {
