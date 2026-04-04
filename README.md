@@ -1,5 +1,9 @@
 # Blog del Medio Ambiente
 
+<p align="center">
+    <img src="https://uziel.app/media/projects/blog-ambiente/og.webp" alt="hero"  />
+</p>
+
 ## Informacion del Proyecto
 
 ### Coordinación de formación general universitaria
