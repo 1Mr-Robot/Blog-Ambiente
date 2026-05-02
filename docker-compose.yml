@@ -3,7 +3,7 @@ version: '3.8'
 services:
   web:
     build: .
-    container_name: ambiente
+    container_name: blog-ambiente
+    restart: always
     ports:
       - "8005:80"
-    restart: always
